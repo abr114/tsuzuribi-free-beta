@@ -1,0 +1,17 @@
+{
+  "name": "つづりび",
+  "short_name": "つづりび",
+  "description": "つづりびの価値検証用Web/PWA UIモック",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f2e8",
+  "theme_color": "#f3efe6",
+  "icons": [
+    {
+      "src": "/tsuzuribi-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
